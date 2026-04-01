@@ -55,7 +55,7 @@ export default function Home() {
       {/* Navigation */}
       <nav className="fixed top-0 left-0 right-0 z-50 bg-background/80 backdrop-blur-md border-b border-border">
         <div className="container mx-auto px-4 py-4 flex justify-between items-center">
-          <div className="text-xl font-bold glow-text">CZX</div>
+          <div className="text-xl font-bold glow-text">Eastar</div>
           <div className="flex gap-6 items-center">
             <a href="#about" className="text-sm hover:text-primary transition">
               {t('nav.about')}
