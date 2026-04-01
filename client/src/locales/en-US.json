@@ -1,0 +1,118 @@
+{
+  "nav": {
+    "about": "About",
+    "experience": "Experience",
+    "projects": "Projects",
+    "contact": "Contact"
+  },
+  "hero": {
+    "name": "Chen Zexing",
+    "title": "Student | Sales Professional | Organizer & Leader",
+    "cta1": "Explore My Work",
+    "cta2": "Get in Touch"
+  },
+  "about": {
+    "title": "About Me",
+    "description1": "I'm a student at Shenzhen University's School of Communication, with a passion for organization, leadership, and interpersonal communication. With experience in sales and team coordination, I excel at building meaningful connections and driving collaborative success.",
+    "description2": "My journey has been shaped by a commitment to continuous growth, strong coordination abilities, and a genuine passion for bringing people together. I thrive in dynamic environments where collaboration and communication create lasting impact."
+  },
+  "experience": {
+    "title": "Experience",
+    "items": [
+      {
+        "company": "International Sales Company",
+        "position": "Sales Representative",
+        "period": "2023 - Present",
+        "description": "Gained comprehensive understanding of basic business operations and sales models. Developed strong client relationship management and negotiation skills."
+      },
+      {
+        "company": "Class Leadership",
+        "position": "Class Monitor (Multiple Years)",
+        "period": "2015 - 2023",
+        "description": "Served as class monitor for several years, developing strong coordination and organizational skills. Managed class affairs and fostered team cohesion."
+      },
+      {
+        "company": "Shenzhen University",
+        "position": "Organization Department Member",
+        "period": "2024 - Present",
+        "description": "Member of the Organization Department in the School of Communication. Contributing to event planning and organizational initiatives."
+      }
+    ]
+  },
+  "education": {
+    "title": "Education",
+    "items": [
+      {
+        "school": "Shenzhen University",
+        "degree": "Bachelor of Communication",
+        "year": "2024 - Present",
+        "description": "Currently studying at the School of Communication. Member of the Organization Department in the School of Communication."
+      },
+      {
+        "school": "Luohu High School, Shenzhen",
+        "degree": "High School Diploma",
+        "year": "2006 - 2024",
+        "description": "Graduated with top 5% ranking in the entire grade. Received District Outstanding Student Award and School Outstanding Student Award."
+      }
+    ]
+  },
+  "skills": {
+    "title": "Skills & Expertise",
+    "categories": [
+      {
+        "name": "Office & Design",
+        "skills": ["Microsoft Office", "Photoshop", "Video Editing", "Presentation Skills"]
+      },
+      {
+        "name": "Core Competencies",
+        "skills": ["Leadership", "Team Coordination", "Communication", "Organization"]
+      },
+      {
+        "name": "Professional Experience",
+        "skills": ["Sales", "Business Operations", "Client Relations", "Negotiation"]
+      },
+      {
+        "name": "Volunteer & Social",
+        "skills": ["Volunteer Work (100+ Hours)", "Event Organization", "Community Engagement"]
+      }
+    ]
+  },
+  "projects": {
+    "title": "Featured Projects",
+    "featured": {
+      "title": "Leadership & Organization",
+      "description": "Multi-year experience as class monitor with strong coordination and organizational abilities. Demonstrated excellence in team management, event coordination, and fostering collaborative environments. Currently contributing to organizational initiatives at Shenzhen University.",
+      "skills": ["Team Leadership", "Organization", "Coordination", "Communication"]
+    },
+    "items": [
+      {
+        "title": "Sales Experience",
+        "description": "Comprehensive understanding of business operations and sales models from international company.",
+        "tech": ["Sales", "Business", "Operations"]
+      },
+      {
+        "title": "Volunteer Work",
+        "description": "Over 100 hours of volunteer service demonstrating commitment to community engagement.",
+        "tech": ["Community", "Service", "Engagement"]
+      },
+      {
+        "title": "Academic Excellence",
+        "description": "Top 5% ranking in entire grade with multiple academic and leadership awards.",
+        "tech": ["Excellence", "Achievement", "Recognition"]
+      },
+      {
+        "title": "Communication Skills",
+        "description": "Strong interpersonal communication and negotiation abilities developed through diverse experiences.",
+        "tech": ["Communication", "Negotiation", "Relations"]
+      }
+    ]
+  },
+  "contact": {
+    "title": "Let's Connect",
+    "description": "I'm always interested in connecting with like-minded individuals and exploring new opportunities for collaboration and growth.",
+    "cta": "Send Me an Email"
+  },
+  "footer": {
+    "copyright": "© 2024 Chen Zexing Portfolio. All rights reserved."
+  }
+}
